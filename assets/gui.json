@@ -1,0 +1,24 @@
+{
+    "en": {
+        "software_name":"PDF Translator 😎",
+        "labels": {
+            "input_pdf": "Input PDF : ",
+            "output_word": "Output Word :",
+            "github_link": "GitHub"
+        },
+        "buttons": {
+            "choose_pdf": "Choose PDF",
+            "choose_word": "Choose Word",
+            "translate": "Translate"
+        },
+        "messages": {
+            "error": "Error",
+            "error_occurred": "An error occurred:",
+            "success": "Success",
+            "error_no_paths": "Please provide input PDF and output Word file paths.",
+            "translation_completed": "Translation completed successfully!"
+        },
+        "copyright": "\u00A9 2024 Mahdi Hazrati. All rights reserved :)",
+        "github_repositroy": "https://github.com/Mahdi-Hazrati/PDF-Translator"
+    }
+}

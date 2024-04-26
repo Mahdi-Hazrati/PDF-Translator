@@ -1,0 +1,7 @@
+/venv
+/images
+
+*.html
+page_*.png
+dist
+build
